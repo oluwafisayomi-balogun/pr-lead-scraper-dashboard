@@ -1,0 +1,16 @@
+# Search settings for every collector.
+# Add or remove phrases here without touching any code.
+
+phrases:
+  - looking for PR agency
+  - looking for a PR agency
+  - hiring publicist
+  - need a publicist
+  - PR referral needed
+  - recommend a PR firm
+
+bluesky:
+  max_pages: 3
+
+hackernews:
+  days_back: 7
